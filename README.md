@@ -1,8 +1,10 @@
 # iMario
-iMario——我的超级玛丽——源自书籍《developing Games In Java》
+iMario——我的超级玛丽——源自书籍《Developing Games In Java》
 
 ## Example
 Run **Main.java**
+
+Run `mvn clean compile exec:java` for Maven
 
 ![mario](./images/mario.png)
 
